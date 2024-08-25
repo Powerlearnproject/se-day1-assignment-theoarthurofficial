@@ -9,7 +9,7 @@ The importance of Software engineering is that it enables the creation of softwa
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 Development of programming languages; the introduction of digital computers brought about programming languages so that humans and the computers could interact.
-Introduction to structured programming; this milestone highlights the introduction of programming or writing software in a more structural manner instead of cramming everything together as was done befor. The structured programming emphasized clarity, control structures and modularization
+Introduction to structured programming; this milestone highlights the introduction of programming or writing software in a more structural manner instead of cramming everything together as was done befor. The structured programming emphasized clarity, control structures and modularization.
 The rise of agile methodologies; this revolutionized software development by promoting iterative development(step by step), customer collaboration, and flexibility. This shift allowed teams to adapt quickly to changing requirements and deliver software more frequently and effeciently.
 
 List and briefly explain the phases of the Software Development Life Cycle.
